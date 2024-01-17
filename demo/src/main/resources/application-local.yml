@@ -1,0 +1,9 @@
+server:
+  port: 7000
+#in prefix spring that inside mail file
+spring:
+  mail:
+    username: "nova@gmail.com"
+    password: 123
+    multi-config: config1,config2
+
